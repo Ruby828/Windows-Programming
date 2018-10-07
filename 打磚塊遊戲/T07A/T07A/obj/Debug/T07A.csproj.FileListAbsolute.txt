@@ -1,0 +1,45 @@
+c:\users\acerpc\documents\visual studio 2012\Projects\T07A\T07A\bin\Debug\T07A.exe.config
+c:\users\acerpc\documents\visual studio 2012\Projects\T07A\T07A\bin\Debug\T07A.exe
+c:\users\acerpc\documents\visual studio 2012\Projects\T07A\T07A\bin\Debug\T07A.pdb
+c:\users\acerpc\documents\visual studio 2012\Projects\T07A\T07A\obj\Debug\T07A.csprojResolveAssemblyReference.cache
+c:\users\acerpc\documents\visual studio 2012\Projects\T07A\T07A\obj\Debug\T07A.Form1.resources
+c:\users\acerpc\documents\visual studio 2012\Projects\T07A\T07A\obj\Debug\T07A.Properties.Resources.resources
+c:\users\acerpc\documents\visual studio 2012\Projects\T07A\T07A\obj\Debug\T07A.csproj.GenerateResource.Cache
+c:\users\acerpc\documents\visual studio 2012\Projects\T07A\T07A\obj\Debug\T07A.exe
+c:\users\acerpc\documents\visual studio 2012\Projects\T07A\T07A\obj\Debug\T07A.pdb
+C:\Users\ncyu\Desktop\T07A\T07A\bin\Debug\T07A.exe.config
+C:\Users\ncyu\Desktop\T07A\T07A\obj\Debug\T07A.exe
+C:\Users\ncyu\Desktop\T07A\T07A\obj\Debug\T07A.pdb
+C:\Users\ncyu\Desktop\T07A\T07A\bin\Debug\T07A.exe
+C:\Users\ncyu\Desktop\T07A\T07A\bin\Debug\T07A.pdb
+C:\Users\ncyu\Desktop\T07A\T07A\obj\Debug\T07A.csprojResolveAssemblyReference.cache
+C:\Users\ncyu\Desktop\T07A\T07A\obj\Debug\T07A.Form1.resources
+C:\Users\ncyu\Desktop\T07A\T07A\obj\Debug\T07A.Properties.Resources.resources
+C:\Users\ncyu\Desktop\T07A\T07A\obj\Debug\T07A.csproj.GenerateResource.Cache
+C:\Users\andrew\Downloads\007\T07A\T07A\bin\Debug\T07A.exe.config
+C:\Users\andrew\Downloads\007\T07A\T07A\obj\Debug\T07A.exe
+C:\Users\andrew\Downloads\007\T07A\T07A\obj\Debug\T07A.pdb
+C:\Users\andrew\Downloads\007\T07A\T07A\bin\Debug\T07A.exe
+C:\Users\andrew\Downloads\007\T07A\T07A\bin\Debug\T07A.pdb
+C:\Users\andrew\Downloads\007\T07A\T07A\obj\Debug\T07A.csprojResolveAssemblyReference.cache
+C:\Users\andrew\Downloads\007\T07A\T07A\obj\Debug\T07A.Form1.resources
+C:\Users\andrew\Downloads\007\T07A\T07A\obj\Debug\T07A.Properties.Resources.resources
+C:\Users\andrew\Downloads\007\T07A\T07A\obj\Debug\T07A.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\007\T07A\T07A\bin\Debug\T07A.exe.config
+C:\Users\user\Desktop\007\T07A\T07A\obj\Debug\T07A.exe
+C:\Users\user\Desktop\007\T07A\T07A\obj\Debug\T07A.pdb
+C:\Users\user\Desktop\007\T07A\T07A\bin\Debug\T07A.exe
+C:\Users\user\Desktop\007\T07A\T07A\bin\Debug\T07A.pdb
+C:\Users\user\Desktop\007\T07A\T07A\obj\Debug\T07A.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\007\T07A\T07A\obj\Debug\T07A.Form1.resources
+C:\Users\user\Desktop\007\T07A\T07A\obj\Debug\T07A.Properties.Resources.resources
+C:\Users\user\Desktop\007\T07A\T07A\obj\Debug\T07A.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\T07A\T07A\bin\Debug\T07A.exe.config
+C:\Users\user\Desktop\T07A\T07A\obj\Debug\T07A.exe
+C:\Users\user\Desktop\T07A\T07A\obj\Debug\T07A.pdb
+C:\Users\user\Desktop\T07A\T07A\bin\Debug\T07A.exe
+C:\Users\user\Desktop\T07A\T07A\bin\Debug\T07A.pdb
+C:\Users\user\Desktop\T07A\T07A\obj\Debug\T07A.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\T07A\T07A\obj\Debug\T07A.Form1.resources
+C:\Users\user\Desktop\T07A\T07A\obj\Debug\T07A.Properties.Resources.resources
+C:\Users\user\Desktop\T07A\T07A\obj\Debug\T07A.csproj.GenerateResource.Cache
